@@ -1,0 +1,5 @@
+<Project Sdk="FSharp.NET.Sdk;Microsoft.NET.Sdk">
+  <ItemGroup>
+    <DotNetCliToolReference Include="dotnet-fable" Version="1.0.4" />
+  </ItemGroup>
+</Project>
