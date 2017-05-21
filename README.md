@@ -6,3 +6,10 @@
 4. In your browser, open: [http://localhost:8080/](http://localhost:8080/)
 
 Any modification you do to the F# code will be reflected in the web page after saving.
+
+There are my opinions for the roadmap, definitely looking for edits and additions.
+
+### 1.0 beta 2
+- [ ] Stabilize and Finalize built in types for Node, JS, and Browser
+- [ ] Update all samples to 1.0 final with Paket.  [Tracked here](https://github.com/fable-compiler/Fable/issues/881)
+- [ ] 
